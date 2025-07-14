@@ -1,12 +1,82 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚗 Car Design Landing Page
 
-Currently, two official plugins are available:
+A sleek, responsive **landing page for a car design concept**, built using modern frontend technologies — **React**, **Tailwind CSS**. This project showcases visual design, layout aesthetics, and front-end development precision.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎯 Project Objective
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To create a **visually compelling landing page** that highlights features, models, and the design philosophy of a futuristic automotive brand.
+
+This page was designed as a front-end-only project — ideal for demonstrating layout techniques, animations, and UI polish.
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech            | Purpose                      |
+|-----------------|------------------------------|
+| React.js        | Component-based architecture |
+| Tailwind CSS    | Utility-first responsive styling |
+| Heroicons       | Iconography & UI polish |
+| JSX + CSS       | Layout and animations        |
+
+---
+
+## ✨ Key Features
+
+- 🚘 Hero section with bold imagery & CTA
+- 📱 Fully responsive for all screen sizes
+- 🎨 Modern color palette and typography
+- 🔗 Smooth navigation with React Router
+- 🧩 Modular, reusable React components
+- 💻 Clean, scalable file structure
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Nimit746/Codesoft.git
+cd proj_landingpage
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start development server
+
+```bash
+npm run dev
+```
+
+Visit `http://localhost:5173` to view the landing page.
+
+---
+
+## 📂 Folder Structure
+
+```
+car-design-landing-page/
+├── src/
+│   ├── assets/         # Images, icons, media
+│   ├── components/     # React components
+│   ├── App.jsx         # App routing and layout
+│   └── main.jsx        # Entry point
+├── public/
+└── tailwind.config.js
+```
+
+---
+
+## 🔧 Customization Ideas
+
+- Add animations with Framer Motion
+- Integrate 3D car views using Three.js
+- Turn it into a full SPA with testimonials, blog, or gallery
