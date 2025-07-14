@@ -40,7 +40,7 @@ This page was designed as a front-end-only project — ideal for demonstrating l
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nimit746/Codesoft.git
+git clone https://github.com/Nimit746/Codsoft.git
 cd proj_landingpage
 ```
 
